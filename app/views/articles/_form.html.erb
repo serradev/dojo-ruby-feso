@@ -17,6 +17,11 @@
   </div>
 
   <div class="field">
+    <%= form.label :category %>
+    <%= form.select :category_id, Category.pluck(:name, :id), { include_blank: true } %>
+  </div>
+
+  <div class="field">
     <%= form.label :content %>
     <%= form.text_area :content %>
   </div>
