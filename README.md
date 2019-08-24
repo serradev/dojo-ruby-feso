@@ -186,7 +186,7 @@ end
 
 ## Ajustes finais
 
-Confira os últimos commits do proj https://github.com/mendesds/serradev/commit/463333b8d12ee92cbb3728c1af3523d69de438af para verificar os últimos ajustes no template da aplicação, no qual são adicionados o seletor de categoria no cadastro de artigos.
+Confira os últimos commits do proj https://github.com/serradev/dojo-ruby-feso/commit/463333b8d12ee92cbb3728c1af3523d69de438af para verificar os últimos ajustes no template da aplicação, no qual são adicionados o seletor de categoria no cadastro de artigos.
 
 
 
